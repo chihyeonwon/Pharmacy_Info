@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.yakbang"
+    namespace = "com.wonchihyeon.yakbang"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.yakbang"
+        applicationId = "com.wonchihyeon.yakbang"
         minSdk = 30
         targetSdk = 33
         versionCode = 1
