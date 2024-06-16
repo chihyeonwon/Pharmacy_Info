@@ -1,4 +1,4 @@
-package com.example.yakbang
+package com.wonchihyeon.yakbang
 
 import org.junit.Test
 
