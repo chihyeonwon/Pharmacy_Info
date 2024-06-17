@@ -1,5 +1,6 @@
 package com.wonchihyeon.yakbang.network
 
+import com.wonchihyeon.yakbang.model.YakModel
 import retrofit2.http.GET
 import retrofit2.http.Query
 
