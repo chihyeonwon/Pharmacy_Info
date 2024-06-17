@@ -1,4 +1,4 @@
-package com.wonchihyeon.yakbang
+package com.wonchihyeon.yakbang.ui.detail
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
+import com.wonchihyeon.yakbang.R
 import com.wonchihyeon.yakbang.databinding.FragmentSecondBinding
 
 /**
