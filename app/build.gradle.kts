@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.wonchihyeon.yakbang"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.wonchihyeon.yakbang"
