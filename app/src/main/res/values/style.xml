@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomChipStyle" parent="Widget.MaterialComponents.Chip.Choice">
+        <item name="chipBackgroundColor">@android:color/transparent</item>
+        <item name="chipStrokeColor">@drawable/chip_text_color</item>
+        <item name="chipStrokeWidth">3dp</item>
+        <item name="android:textColor">@drawable/chip_text_color</item>
+    </style>
+</resources>
