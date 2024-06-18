@@ -61,6 +61,7 @@ class HomeFragment : Fragment() {
 
                 override fun onQueryTextChange(newText: String?) = true
             })
+            searchView.isSubmitButtonEnabled = true
         }
         // 이 밑 세줄은 코드가 비슷함, 데이터 명만 달라짐
         viewModel.getYakList(Category.Efficacy, "감기")
