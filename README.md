@@ -15,16 +15,23 @@
 2. 서비스 대상: 일반인, 관련 전문가 및 유관 기관
 3. 의약품 허가사항 내용 확인과 의약품 정보 관리 업무를 더욱 효과적으로 할 수 있도록 관련 정보 정리하여 제공
 
-## 기능 및 서비스화면
+# 기능 및 서비스화면
 
-1. 통합검색 - 키워드로 검색
-2. 상세검색 - 세부 항목으로 검색
-3. 식별검색 - 성상 정보로 검색
-4. 안전성서한 - 안전성서한 세부내용 제공
-5. 최신 허가사항 변경 내용 - 변경된 허가사항 제공
+## 약품이름으로 검색 기능
+![2024-06-19 03;37;16](https://github.com/chihyeonwon/Yak_Bang/assets/58906858/22787c00-6c46-4f2f-a3c3-7b1e4aa366ac)
 
-![image](https://github.com/chihyeonwon/Pharmacy_Info/assets/58906858/f69f7de0-61e2-48b1-9346-0716708ceed6)
-![image](https://github.com/chihyeonwon/Pharmacy_Info/assets/58906858/77ffe4f5-3160-43b0-80e7-bfb5031fc23a)
+## 약품회사로 검색 기능
+![2024-06-19 03;45;01](https://github.com/chihyeonwon/Yak_Bang/assets/58906858/bf773ad2-1359-4732-87df-1aeda54588dd)
+
+## 효능으로 검색 기능
+![2024-06-19 03;41;22](https://github.com/chihyeonwon/Yak_Bang/assets/58906858/75d991b7-e8d2-4a1e-8d9d-0a5aa4ab7c65)
+
+## 부작용으로 검색 기능
+![2024-06-19 03;42;18](https://github.com/chihyeonwon/Yak_Bang/assets/58906858/faa1ea83-a03f-48d9-a953-f9160f89a8bf)
+
+## 상호작용으로 검색 기능
+![2024-06-19 03;42;48](https://github.com/chihyeonwon/Yak_Bang/assets/58906858/059373dc-8dd6-4eeb-a399-549c3d75305c)
+
 
 ## 데이터 상세
 ![image](https://github.com/chihyeonwon/Pharmacy_Info/assets/58906858/34c4db35-a805-4290-8ce3-1ebfc6ff03c7)
