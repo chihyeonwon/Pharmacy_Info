@@ -52,6 +52,7 @@ class HomeFragment : Fragment() {
                     // query가 검색 문자열
                     query ?: return true
                     val queryCategory =
+                        // chip 에 선택된 항목으로 검색
                         categoryMap.get(chipGroup.checkedChipId) ?: Category.ProductName
                     viewModel.getYakList(queryCategory, query)
                     searchView.hideKeyboard()
